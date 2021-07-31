@@ -1,6 +1,6 @@
-# Python Analysis
+# Data Analytics
 
-Python analysis of Healthcare Cost dataset
+Data Analytics course capstone projects dataset analysis results and presenatations conducted on MS Excel, MS powerpoint, Tableau and Python
 
 ## Installation
 run 'python install -r requirements.txt'
